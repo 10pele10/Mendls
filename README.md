@@ -1,3 +1,3 @@
 # Mendls
-2020 Blockchain
-Offering Interoperability Vision Across Ledgers
+2020 Blockchain Interoperability - 
+Offering One Vision Across Ledgers
